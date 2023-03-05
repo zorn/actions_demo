@@ -82,9 +82,6 @@ on:
     branches:
       - "*"
 
-env:
-  MIX_ENV: test
-
 jobs:
   test:
     services:
